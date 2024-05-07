@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prafull and I'm a Full Stack Developer, from India.</h2>
+<h2 align="left">Hi 👋! My name is Prafull and I'm a Full Stack Developer, from India .</h2>
 
 ###
 
@@ -37,7 +37,7 @@
   <a href="https://prafullsranjan.medium.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-  <a href="https://hackerrank.com/prafullsranjan" target="_blank">
+  <a href="https://hackerrank.com/prafullsranjan1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
